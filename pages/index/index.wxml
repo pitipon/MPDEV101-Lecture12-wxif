@@ -3,3 +3,6 @@
   <view>User Id</view>
   <view>{{userId}}</view>
 </view>
+
+<input  bindinput="bindKeyInput" placeholder="Update User Id in GlobalData" class="myInput"/>
+
