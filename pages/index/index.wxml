@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class='banner'>
+  <view>User Id</view>
+  <view>{{userId}}</view>
+</view>
